@@ -25,8 +25,8 @@ Matched Keywords: python, sql
 Missing Keywords: tableau, data wrangling, presentation, excel
 
 Recommendation:
-Resume is under-matching. Try including these key terms:
-• tableau, data wrangling, excel
+Resume is under-matching. 
+Try including these key terms: tableau, data wrangling, excel
 
 Format Feedback:
 No bullet points detected
