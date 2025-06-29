@@ -38,11 +38,10 @@ ats-resume-analysis/
 ├── resume_analysis.ipynb 
 
 ├── data/
-
-│ ├── resumes.csv 
-
-│ └── job_description.txt 
-
+ ├── resumes.csv 
+ 
+ └── job_description.txt 
+ 
 ├── requirements.txt 
 
 └── README.md 
