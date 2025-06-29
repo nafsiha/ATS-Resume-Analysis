@@ -8,7 +8,7 @@ This project started from that frustration and turned into my first professional
 
 This is a beginner-friendly simulation of how Applicant Tracking Systems (ATS) work and why so many resumes silently get filtered out before they ever reach a recruiter.
 
-# What this project does
+# What this project does ? 
 
 - Reads and cleans raw resume data  
 - Compares each resume to a real job description (JD)  
@@ -63,7 +63,7 @@ ats-resume-analysis
 
 - Job description manually added (`job_description.txt`)
 
-# Why I Made This
+# Why I Made This ?
 
 I wanted to get better at Python.  
 I wanted to understand why I didn’t get interviews.  
@@ -72,7 +72,7 @@ I wanted to turn something that felt bad into something that helps people.
 This project is beginner-friendly, personal, and real.  
 If you're also a student figuring things out maybe this helps.
 
-# What You Can Learn From This Repo
+# What You Can Learn From This Repo ?
 
 - How to turn a personal experience into a portfolio project  
 - How basic NLP can be applied to real career problems  
