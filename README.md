@@ -38,6 +38,7 @@ ats-resume-analysis/
 ├── resume_analysis.ipynb 
 
 ├── data/
+
  ├── resumes.csv 
  
  └── job_description.txt 
