@@ -22,23 +22,30 @@ This is a beginner-friendly simulation of how Applicant Tracking Systems (ATS) w
 
 ATS Score: 4/10
 
-- Matched Keywords: python, sql
-- Missing Keywords: tableau, data wrangling, presentation, excel
+Matched Keywords: python, sql
 
-- Recommendation: Resume is under-matching. 
-- Try including these key terms: tableau, data wrangling, excel
+Missing Keywords: tableau, data wrangling, presentation, excel
+
+Recommendation: 
+Resume is under-matching. Try including these key terms: tableau, data wrangling, excel
 
 Format Feedback: No bullet points detected, No 'Experience' section found
 
 # Project Structure
 
 ats-resume-analysis/
-resume_analysis.ipynb        
-data/
-- resumes.csv              
-- job_description.txt      
-requirements.txt             
-README.md                   
+
+├── resume_analysis.ipynb 
+
+├── data/
+
+│ ├── resumes.csv 
+
+│ └── job_description.txt 
+
+├── requirements.txt 
+
+└── README.md 
 
 # Tech & Tools
 
