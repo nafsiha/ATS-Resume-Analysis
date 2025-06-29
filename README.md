@@ -1,11 +1,8 @@
 # Why Resumes Fail: A Beginner ATS Resume Analyzer
 
-In my first year of college, I applied to several data internships and heard nothing back.
-
-I had some skills. I had passion. I wrote a resume.  
-But what I didn’t realize was most resumes don’t even reach human eyes.
-
-This project started from that frustration and turned into my first professional data project. It simulates how Applicant Tracking Systems (ATS) score resumes and shows why most get filtered out.
+This summer, after my first year finished, I spent weeks applying to data internships and didn’t hear back from most. It made me wonder "Was it my resume? Or was it never even seen by a human?" 
+This project started from that frustration and turned into my first professional data project.
+This is a beginner-friendly simulation of how Applicant Tracking Systems (ATS) work and why so many resumes silently get filtered out before they ever reach a recruiter.
 
 # What this project does
 
@@ -29,8 +26,8 @@ Resume is under-matching.
 Try including these key terms: tableau, data wrangling, excel
 
 Format Feedback:
-No bullet points detected
-No 'Experience' section found
+- No bullet points detected
+- No 'Experience' section found
 
 # Project Structure
 
