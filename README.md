@@ -1,7 +1,11 @@
 # Why Resumes Fail: A Beginner ATS Resume Analyzer
 
-This summer, after my first year finished, I spent weeks applying to data internships and didn’t hear back from most. It made me wonder "Was it my resume? Or was it never even seen by a human?" 
+This summer, after my first year finished, I spent weeks applying to data internships and didn’t hear back from most. 
+
+It made me wonder "Was it my resume? Or was it never even seen by a human?" 
+
 This project started from that frustration and turned into my first professional data project.
+
 This is a beginner-friendly simulation of how Applicant Tracking Systems (ATS) work and why so many resumes silently get filtered out before they ever reach a recruiter.
 
 # What this project does
@@ -16,28 +20,25 @@ This is a beginner-friendly simulation of how Applicant Tracking Systems (ATS) w
 
 # Sample Output
 
-📄 ATS Score: 4/10
+ATS Score: 4/10
 
-Matched Keywords: python, sql
-Missing Keywords: tableau, data wrangling, presentation, excel
+- Matched Keywords: python, sql
+- Missing Keywords: tableau, data wrangling, presentation, excel
 
-Recommendation:
-Resume is under-matching. 
-Try including these key terms: tableau, data wrangling, excel
+- Recommendation: Resume is under-matching. 
+- Try including these key terms: tableau, data wrangling, excel
 
-Format Feedback:
-- No bullet points detected
-- No 'Experience' section found
+Format Feedback: No bullet points detected, No 'Experience' section found
 
 # Project Structure
 
 ats-resume-analysis/
-├── resume_analysis.ipynb        
-├── data/
-│   ├── resumes.csv              
-│   └── job_description.txt      
-├── requirements.txt             
-└── README.md                   
+resume_analysis.ipynb        
+data/
+- resumes.csv              
+- job_description.txt      
+requirements.txt             
+README.md                   
 
 # Tech & Tools
 
@@ -71,9 +72,8 @@ If you're also a student figuring things out maybe this helps.
 - How to write clean, structured code that gives human feedback  
 - That rejection can be re-framed as analysis
 
-# What’s Next
+# What’s Next ?
 
-Want to build on this?
 - Make it a Streamlit app so people can upload resumes
 - Add skill-category tagging (e.g., data viz, soft skills)
 - Train a simple classifier for resume types
