@@ -33,19 +33,19 @@ Format Feedback: No bullet points detected, No 'Experience' section found
 
 # Project Structure
 
-ats-resume-analysis/
+ats-resume-analysis
 
-├── resume_analysis.ipynb 
+|--- resume_analysis.ipynb 
 
-├── data/
+|--- data
 
- ├── resumes.csv 
+|---|--- resumes.csv 
  
- └── job_description.txt 
+|---|--- job_description.txt 
  
-├── requirements.txt 
+|--- requirements.txt 
 
-└── README.md 
+|--- README.md 
 
 # Tech & Tools
 
