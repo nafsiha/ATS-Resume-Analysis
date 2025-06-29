@@ -1,0 +1,8 @@
+We are seeking a Data Analyst intern with strong skills in:
+- Python
+- SQL
+- Excel
+- Data Visualization (using tools like Tableau or Matplotlib)
+- Communication and presentation
+- Data cleaning and wrangling
+- Problem-solving mindset
